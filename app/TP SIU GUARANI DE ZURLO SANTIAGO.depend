@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1717360142 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1717165046 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"cola.h"
+
+1716562797 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\nodo.h
+
+1717165046 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\cola.h
+	"nodo.h"
+
+1717354670 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\guarani.c
+	<stdio.h>
+	<stdlib.h>
+	"guarani.h"
+
+1717354636 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"alumno.h"
+
+1717355266 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materiaAprobada.h"
+
+1716562797 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1716562797 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"pila.h"
+
+1716563085 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\pila.h
+	"nodo.h"
+
+1717171566 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1716563085 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\lista.h
+	"nodo.h"
+
+1717355266 source:d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"materiaAprobada.h"
+	"guarani.h"
+	"alumno.h"
+
+1717005448 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\materia.h
+	"lista.h"
+	"cola.h"
+
+1717005342 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\materiaaprobada.h
+	"lista.h"
+	"cola.h"
+
+1716907695 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\guarani.h
+	"lista.h"
+	"cola.h"
+	"materia.h"
+
+1717355737 d:\codeblocks ejercicios\tp siu guarani de zurlo santiago\alumno.h
+	"lista.h"
+	"cola.h"
+	"materia.h"
+	"materiaAprobada.h"
+
+1717360142 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1717355737 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\alumno.h
+	"lista.h"
+	"cola.h"
+	"materia.h"
+	"materiaAprobada.h"
+
+1716563085 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\lista.h
+	"nodo.h"
+
+1716562797 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\nodo.h
+
+1717165046 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\cola.h
+	"nodo.h"
+
+1717005448 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\materia.h
+	"lista.h"
+	"cola.h"
+
+1717005342 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\materiaaprobada.h
+	"lista.h"
+	"cola.h"
+
+1717165046 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"cola.h"
+
+1717354670 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\guarani.c
+	<stdio.h>
+	<stdlib.h>
+	"guarani.h"
+
+1716907695 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\guarani.h
+	"lista.h"
+	"cola.h"
+	"materia.h"
+
+1717171566 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1717360333 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"materiaAprobada.h"
+	"guarani.h"
+	"alumno.h"
+
+1717354636 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"alumno.h"
+
+1717355266 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materiaAprobada.h"
+
+1716562797 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1716562797 source:d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"pila.h"
+
+1716563085 d:\codeblocks ejercicios\ayed\tp siu guarani de zurlo santiago\pila.h
+	"nodo.h"
+
