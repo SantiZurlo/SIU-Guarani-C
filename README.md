@@ -36,12 +36,17 @@ Este proyecto es una **simulación del sistema SIU Guaraní** desarrollado en le
 ---
 
 ## 💻 Cómo compilar y ejecutar
+ Para compilar y ejecutar este proyecto se debe desacargar por completo la carpeta, y asegurarse de tener los archivos bien descargados. Luego se ejecuta el archivo TP SIU GUARANI DE ZURLO SANTIAGO y podras verlo en ejecucion.
 
 ### 🔧 Requisitos
 - Compilador de C (GCC recomendado)
 - Terminal o consola
-
 ### ▶️ Compilar
+
+## Fotos de Consola
+
+![Muestra de alumno](assets/consola.png)
+![Muestra de cola de espera](assets/consola2.png)
 
 ## 📑 Autor
 **Santiago Zurlo**  
